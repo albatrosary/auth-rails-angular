@@ -1,0 +1,6 @@
+{
+  "/access_tokens": {
+    "target": "http://52.41.186.78",
+    "secure": false
+  }
+}
